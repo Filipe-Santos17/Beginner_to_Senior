@@ -41,9 +41,7 @@ SOFTWARE.
 <!--End Image-->
 
 <!--Start Social Section-->
-<br>
 <h3 align="center">Follow me on Social Networks:</h3> 
-<br>
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCaEfgUzXHpFXORka1tXLrpw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/filipemarquesdos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
