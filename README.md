@@ -28,3 +28,16 @@
 
 Curso | Duração | Conteúdos | Pré-requisitos :-- | :--: | :--: | :--: 
 [Introdução a HTML 5](http:youtube.com) | 40 horas | Html5, css e js | Nenhum
+
+
+
+/**Molde front-end**/
+
+html5:
+Modulo 1 curso em video:
+https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+
+
+/**Molde Configuralções do sistema**/
+windows:
+https://youtube.com/playlist?list=PLlAbYrWSYTiOpefWtd6uvwgKT1R-94Zfd
