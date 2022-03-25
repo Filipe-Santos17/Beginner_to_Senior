@@ -37,6 +37,14 @@ html5:
 Modulo 1 curso em video:
 https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
 
+sass:
+https://youtu.be/Wo5t3uUV8n4
+
+https://youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7
+
+https://youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J
+
+https://youtu.be/BaI8dHUthLA
 
 /**Molde Configuralções do sistema**/
 windows:
