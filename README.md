@@ -1,34 +1,3 @@
-<!--
-Beginner_to_Senior
-
-This Repository was created by me to display courses, videos, and articles that I am doing or find interesting. Building my way from beginner a senior developer!
--->
-
-<!--
-MIT License
-
-Copyright (c) 2022 Filipe Santos
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
--->
-
 <!--Start Title-->
 <h1 align="center">Hello Everbody</h1>
 <p align="center">My name is Felipe and in this Repository I will show my steps and studies to become a future senior developer!</p>
@@ -51,3 +20,23 @@ SOFTWARE.
   </a>
 </div>
 <!--End Social Section-->
+
+# **Modulo Front-End** #
+
+
+### Introdução e Aprofundamento de HTML5
+
+Curso | Duração | Conteúdos | Pré-requisitos :-- | :--: | :--: | :--: 
+[Introdução a HTML 5](http:youtube.com) | 40 horas | Html5, css e js | Nenhum
+
+
+
+
+
+
+Curso | Duração | Dedicação | Conteúdos
+:-- | :--: | :--: | :--: 
+[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | 3 Semanas | 5 horas/semana | Memória; Técnicas de estudo; Recursos de estudo.
+[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas | 2 horas/semana | Tempo; Técnica; Discussão.
+
+
