@@ -28,15 +28,3 @@
 
 Curso | Duração | Conteúdos | Pré-requisitos :-- | :--: | :--: | :--: 
 [Introdução a HTML 5](http:youtube.com) | 40 horas | Html5, css e js | Nenhum
-
-
-
-
-
-
-Curso | Duração | Dedicação | Conteúdos
-:-- | :--: | :--: | :--: 
-[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | 3 Semanas | 5 horas/semana | Memória; Técnicas de estudo; Recursos de estudo.
-[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | 3 Semanas | 2 horas/semana | Tempo; Técnica; Discussão.
-
-
