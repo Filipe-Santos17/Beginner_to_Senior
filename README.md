@@ -46,6 +46,26 @@ https://youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J
 
 https://youtu.be/BaI8dHUthLA
 
+tailwind:
+
 /**Molde Configuralções do sistema**/
 windows:
 https://youtube.com/playlist?list=PLlAbYrWSYTiOpefWtd6uvwgKT1R-94Zfd
+
+
+/**Node**/
+Victor lima
+https://youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B
+
+
+balta
+https://youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn
+
+Waldemar:
+https://youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh
+
+Rocketseat:
+https://www.youtube.com/watch?v=DiXbJL3iWVs&ab_channel=Rocketseat
+
+sequelize rocketseat:
+https://www.youtube.com/watch?v=Fbu7z5dXcRs&t=2646s&ab_channel=Rocketseat
