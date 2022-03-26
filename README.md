@@ -47,6 +47,7 @@ https://youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J
 https://youtu.be/BaI8dHUthLA
 
 tailwind:
+https://youtube.com/playlist?list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u
 
 /**Molde Configuralções do sistema**/
 windows:
@@ -69,3 +70,8 @@ https://www.youtube.com/watch?v=DiXbJL3iWVs&ab_channel=Rocketseat
 
 sequelize rocketseat:
 https://www.youtube.com/watch?v=Fbu7z5dXcRs&t=2646s&ab_channel=Rocketseat
+
+
+/**PHP**/
+PHP Tips
+https://youtube.com/playlist?list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg
