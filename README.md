@@ -52,6 +52,8 @@ https://youtube.com/playlist?list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u
 
 /**React:**/
 
+Hora de codar:
+https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 
 /**React Native:**/
 https://youtube.com/playlist?list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_
@@ -91,6 +93,15 @@ https://youtube.com/playlist?list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg
 
 /**PYTHON**/
 
+basico:
+(mundo 1)
+https://youtube.com/playlist?list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm
+
+(mundo 2)
+https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&ab_channel=CursoemV%C3%ADdeo
+
+(mundo 3)
+https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
 
 flask:
 https://youtube.com/playlist?list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI
