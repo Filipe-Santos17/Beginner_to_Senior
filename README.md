@@ -94,3 +94,20 @@ https://youtube.com/playlist?list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg
 
 flask:
 https://youtube.com/playlist?list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI
+
+
+/**JAVA:**/
+
+Java e Vue:
+https://youtube.com/playlist?list=PLc28gaAn8GoFjligQqKQ147QEm4yt8tkZ
+
+/**FIREBASE:**/
+
+Introdução ao Firebase:
+https://youtube.com/playlist?list=PLHlHvK2lnJnccBL9grcoRxv8CsLa9Q_4q
+
+
+/**Javascript Basico:**/
+
+Programador a Bordo:
+https://youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp
