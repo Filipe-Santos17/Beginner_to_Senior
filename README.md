@@ -49,6 +49,14 @@ https://youtu.be/BaI8dHUthLA
 tailwind:
 https://youtube.com/playlist?list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u
 
+
+/**React:**/
+
+
+/**React Native:**/
+https://youtube.com/playlist?list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_
+
+
 /**Molde Configuralções do sistema**/
 windows:
 https://youtube.com/playlist?list=PLlAbYrWSYTiOpefWtd6uvwgKT1R-94Zfd
@@ -71,7 +79,18 @@ https://www.youtube.com/watch?v=DiXbJL3iWVs&ab_channel=Rocketseat
 sequelize rocketseat:
 https://www.youtube.com/watch?v=Fbu7z5dXcRs&t=2646s&ab_channel=Rocketseat
 
+Jesiel Viana:
+https://youtube.com/playlist?list=PLAxN8g6Knm0camfON299B-vl31IYQhA8Q
+
+Luiz Tools:
+https://youtube.com/playlist?list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V
 
 /**PHP**/
 PHP Tips
 https://youtube.com/playlist?list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg
+
+/**PYTHON**/
+
+
+flask:
+https://youtube.com/playlist?list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI
