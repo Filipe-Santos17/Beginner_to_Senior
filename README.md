@@ -1,5 +1,5 @@
 <!--Start Title-->
-<h1 align="center">Hello Everbody</h1>
+<h1 align="center"> Hello Everbody </h1>
 <p align="center">My name is Felipe and in this Repository I will show my steps and studies to become a future senior developer!</p>
 <!--End Title-->
 
@@ -23,19 +23,16 @@
 
 # **Modulo Front-End** #
 
+| Curso | Duração | Contéudo | Autor |Pré-requisitos |
+|:------|:-------:|:---------:|:-----:|:--------:|
+|[Introdução e Aprofundamento de HTML5]() |40 horas| Html 5, introdução a Css e a Js(sintaxe e DOM)| Gustavo Guanabara - Curso em vídeo | -
+|[Modulo 1 - HTML5](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)|   |   |   |
+|                     |   |   |   |
+ 
 
-### Introdução e Aprofundamento de HTML5
 
-Curso | Duração | Conteúdos | Pré-requisitos :-- | :--: | :--: | :--: 
-[Introdução a HTML 5](http:youtube.com) | 40 horas | Html5, css e js | Nenhum
-
-
-
-/**Molde front-end**/
-
-html5:
-Modulo 1 curso em video:
-https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+# ** Modulo de Sass ** #
+| Curso | Duração | Contéudo | Autor |Pré-requisitos |
 
 sass:
 https://youtu.be/Wo5t3uUV8n4
