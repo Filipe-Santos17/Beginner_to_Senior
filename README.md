@@ -157,3 +157,7 @@ https://youtube.com/playlist?list=PL4Sl6eAbMK7RsS4Q8tSHTlOIaUmTG9eRS
 /**MYSQL**/
 Curso em video:
 https://youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+
+
+**JAVA**
+https://youtube.com/playlist?list=PL_GwGUsBlNydqvVwEnsEybcxwDSY6p0-x
