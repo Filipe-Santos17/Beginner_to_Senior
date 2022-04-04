@@ -90,6 +90,13 @@ https://youtube.com/playlist?list=PLAxN8g6Knm0camfON299B-vl31IYQhA8Q
 Luiz Tools:
 https://youtube.com/playlist?list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V
 
+Angelo Luz - curso de typeorm:
+https://youtube.com/playlist?list=PLDqnSpzNKDvn-3cpMf3yPn7gTnb3ooy4b
+
+node projects:
+https://youtube.com/playlist?list=PLDyVr91WDyIXSnoTLTVRHsvSwE2jjcYDY
+
+
 /**PHP**/
 PHP Tips
 https://youtube.com/playlist?list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg
