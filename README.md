@@ -52,6 +52,12 @@ https://youtube.com/playlist?list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u
 Hora de codar:
 https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 
+Vinicius Dacal:
+https://youtube.com/playlist?list=PLv2oOZboUtKO4_YN4T2CP9-fUKM0yozKg
+
+https://youtube.com/playlist?list=PLv2oOZboUtKMMszyFDrMz-cVs4pKqDssM
+
+
 /**React Native:**/
 https://youtube.com/playlist?list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_
 
