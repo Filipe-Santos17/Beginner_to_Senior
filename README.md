@@ -24,9 +24,8 @@
 <!--Start Apresentation-->
 <!--End Apresentation-->
 
-
-
-# **Modulos** #
+<!--Start Modulos-->
+# **Modulos**
 
 Curso | Duração | Dedicação | Pré-requisitos 
 :-- | :--: | :--: | :--: 
@@ -35,3 +34,5 @@ Curso | Duração | Dedicação | Pré-requisitos
 [Back-End]() | 40 horas | Tecnologias dedicada a criação de servidore e projetos Back-End| Logíca de Programação 
 [Databases]() | 40 horas | | Logíca de Programação 
 [Tecnologias Diversas]() | 40 horas | | Logíca de Programação 
+
+<!--End Modulos-->
