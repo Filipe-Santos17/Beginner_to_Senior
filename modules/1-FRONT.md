@@ -2,7 +2,7 @@
 
 | Curso | Duração | Contéudo | Autor |Jornada |
 |:------|:-------:|:---------:|:-----:|:--------:|
-| [Introdução e Aprofundamento de HTML5]() |40 horas| Html 5, introdução a Css e a Js(sintaxe e DOM)| Gustavo Guanabara - Curso em vídeo | HTML5
+| [Introdução e Aprofundamento de HTML5](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) |40 horas| Html 5, introdução a Css e a Js(sintaxe e DOM)| Gustavo Guanabara - Curso em vídeo | HTML5
 | [Modulo 1 - HTML5](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)|   |   |   | HTML5
 | [Javascript: Curso de JS](https://youtube.com/playlist?list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp) | | | Programador a Bordo | Javascript Basico
 | [Curso de React](https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)| | | Matheus Batisti - Hora de codar | React
