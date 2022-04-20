@@ -18,3 +18,5 @@ https://www.youtube.com/watch?v=IcCVYbtUs8Y&ab_channel=RoelVandePaar
 
 
 molde : https://github.com/Universidade-Livre/ciencia-da-computacao/edit/main/README.md
+
+fazer o clone do clubhouse com tailwind e react e utilizar uma api/db falso para criar usuarios
