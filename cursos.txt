@@ -5,7 +5,6 @@ Prisma: o ORM Node.js que você precisa em 2022
 
 API rest com node, ts e typeorm
 
-nodejs projects playlist -- tipo 1 projeto por semana ?
 
 -- ideia : 1 aula do code83 toda quarta
 

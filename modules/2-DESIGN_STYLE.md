@@ -3,6 +3,7 @@
 Curso | Duração | Contéudo | Autor |Jornada
 :------|:-------:|:---------:|:-----:|:--------:
 [Curso de CSS Flexbox](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4) | | | Node Studio Treinamentos | FlexBox
+[CSS Grid Layout - Curso Completo](https://youtu.be/hKXOVD2Yrj8) | 4 horas e meia | | Origamid | Grid
 [Aprenda SASS em 1 hora - Curso de SASS](https://youtu.be/Wo5t3uUV8n4) | 1 hora | | Matheus Batisti - Hora de Codar | SASS
 [Curso de Sass](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) |  | | Vida FullStack | SASS
 [Curso Sass](https://youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) | | | Amanda Vilela | SASS
