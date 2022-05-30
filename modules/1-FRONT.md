@@ -15,6 +15,14 @@
 
 <h2 align="center">Do React ao Next</h2>
 
+Se você desenvolver em React você precisa aprender a usar:
+
+[React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=pt-br)
+
+[Reactime](https://chrome.google.com/webstore/detail/reactime/cgibknllccemdnfhfpmjhffpjfeidjga?hl=pt-br)
+
+<br/>
+
 | Curso | Duração | Contéudo | Autor | Jornada |
 |:------|:-------:|:--------:|:-----:|:-------:|
 | [Curso de React](https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)| | | Matheus Batisti - Hora de codar | ReactJs

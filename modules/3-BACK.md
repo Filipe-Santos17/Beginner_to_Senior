@@ -1,5 +1,7 @@
 # **Modulo Back-End**
 
+<h2 align="center">Criando servers com Node.Js</h2>
+
 Curso | Duração | Contéudo | Autor |Jornada
 :------|:-------:|:---------:|:-----:|:--------:
 [Curso de Node.js](https://youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) | | | Victor lima - Guia do Programador | Node Js
@@ -11,10 +13,25 @@ Curso | Duração | Contéudo | Autor |Jornada
 [Curso Node.js e MongoDB](https://www.youtube.com/playlist?list=PLsGmTzb4NxK0_CENI1ThoFUNeyIgsZ32V)| | | Luiz Tools | Node Js
 [Curso de TypeORM e Typescript](https://youtube.com/playlist?list=PLDqnSpzNKDvn-3cpMf3yPn7gTnb3ooy4b) | | | Angelo Luz | Node Js
 [node.js project](https://youtube.com/playlist?list=PLDyVr91WDyIXSnoTLTVRHsvSwE2jjcYDY) | | | | Node Js
+
+<h2 align="center">Back-End PHP</h2>
+
+Curso | Duração | Contéudo | Autor |Jornada
+:------|:-------:|:---------:|:-----:|:--------:
 [PHP TIPS](https://youtube.com/playlist?list=PLi_gvjv-JgXqsmCAOrueT1-4JrnMW8_Gg) | | | Robson V. Leite | PHP
+
+<h2 align="center">Python: do inicio ao BackEnd</h2>
+
+Curso | Duração | Contéudo | Autor |Jornada
+:------|:-------:|:---------:|:-----:|:--------:
 [Curso de Python 3 - Mundo 1: Fundamentos](https://youtube.com/playlist?list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm) | | | Gustavo Guanabara - Curso Em Vídeo | Python
 [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&ab_channel=CursoemV%C3%ADdeo) | | | Gustavo Guanabara - Curso Em Vídeo | Python
 [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) | | | Gustavo Guanabara - Curso Em Vídeo | Python
 [Curso de Flask](https://youtube.com/playlist?list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI) | | | Filipe Morelli Developer | Python
+
+<h2 align="center">JAVA</h2>
+
+Curso | Duração | Contéudo | Autor |Jornada
+:------|:-------:|:---------:|:-----:|:--------:
 [Full Stack Java e Vue](https://youtube.com/playlist?list=PLc28gaAn8GoFjligQqKQ147QEm4yt8tkZ) | | |  TI 100 Censura | Java
 [Desenvolvimento Back-end em Java com Spring](https://youtube.com/playlist?list=PL_GwGUsBlNydqvVwEnsEybcxwDSY6p0-x) | | | Sérgio Roberto Delfino | Java
