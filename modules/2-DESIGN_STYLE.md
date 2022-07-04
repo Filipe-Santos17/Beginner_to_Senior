@@ -8,6 +8,16 @@ Curso | Duração | Contéudo | Autor |Jornada
 [Curso de CSS Flexbox](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4) | | | Node Studio Treinamentos | FlexBox
 [CSS Grid Layout - Curso Completo](https://youtu.be/hKXOVD2Yrj8) | 4 horas e meia | | Origamid | Grid
 
+<p>Antes de avançar para o proximo modulo, certifique-se que aprendeu corretamente, as bases do css Grid e do FlexBox, elas serão extremamente importantes para a sua evolução no css e em futuros projetos, para isso nada melhor do que aprender se divertindo, por isso separei jogos que iram colaborar no seu estudo de css: </p>
+
+[FlexBox Froggy](https://flexboxfroggy.com/)
+[CSS Battle](https://cssbattle.dev/)
+[Grid Garden](https://cssgridgarden.com/)
+[Css Diner](https://flukeout.github.io/)
+[Flexbox Zombies](https://mastery.games/flexboxzombies/)
+[Flexbox Defense](http://www.flexboxdefense.com/)
+
+
 <h2 align="center">Pré-Processadores CSS</h2>
 
 Curso | Duração | Contéudo | Autor |Jornada
