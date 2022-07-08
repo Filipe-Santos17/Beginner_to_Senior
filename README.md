@@ -56,10 +56,10 @@ O universo da programação é complexo, e para iniciantes é assustador, por is
 
 Curso | Duração | Dedicação | Pré-requisitos 
 :-- | :--: | :--: | :--: 
-[Front-End](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/modules/1-FRONT.md) | 40 horas | Tecnologias dedicada a compreender os conceitos da internet, criação e estrutura de projetos Front-End com Javascript e Framerworks | Logíca de Programação 
-[Design](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/modules/2-DESIGN_STYLE.md) | 40 horas | CSS, Tecnologias CSS(Framerworks e Pré-Processador), aplicativos e importantes conceitos de Design | Logíca de Programação 
-[Back-End](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/modules/3-BACK.md) | 40 horas | Tecnologias dedicada a criação de servidore e projetos Back-End| Logíca de Programação 
-[Databases](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/modules/4-DATABASES.md) | 40 horas | | Logíca de Programação 
-[Tecnologias Diversas](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/modules/5-O_FEATURES.md) | 40 horas | | Logíca de Programação 
+[Front-End](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/Modules/1-FRONT.md) | 40 horas | Tecnologias dedicada a compreender os conceitos da internet, criação e estrutura de projetos Front-End com Javascript e Framerworks | Logíca de Programação 
+[Design](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/Modules/2-DESIGN_STYLE.md) | 40 horas | CSS, Tecnologias CSS(Framerworks e Pré-Processador), aplicativos e importantes conceitos de Design | Logíca de Programação 
+[Back-End](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/Modules/3-BACK.md) | 40 horas | Tecnologias dedicada a criação de servidore e projetos Back-End| Logíca de Programação 
+[Databases](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/Modules/4-DATABASES.md) | 40 horas | | Logíca de Programação 
+[Tecnologias Diversas](https://github.com/Filipe-Santos17/Beginner_to_Senior/blob/main/Modules/5-O_FEATURES.md) | 40 horas | | Logíca de Programação 
 
 <!--End Modulos-->
